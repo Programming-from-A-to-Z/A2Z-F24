@@ -1,6 +1,7 @@
 # Introduction
 
 ## "Constrained" Writing / "Algorithmic" Writing
+
 - [Constrained Writing Slides](https://docs.google.com/presentation/d/13nXtT9ys5fozM_FPMUnXmIzgJ-goq4_chcY_tqZ6X-U/edit?usp=sharing)
 - "Cut-ups"
   - [Cut-up Method](http://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html) from Leroi Jones, ed., The Moderns: An Anthology of New Writing in America (NY: Corinth Books, 1963).
@@ -48,13 +49,15 @@
 
 1. Accept invitation to class Discord and Google Group mailing list.
 2. Read / watch
-   - [Stephanie Dinkins Eyeo Talk](https://vimeo.com/354277038)
+
+   - The Eyeo Festival was an incredible conference that ran from 2011 to 2022, bringing together "a rich intersection of people doing fascinating things with technology." [So many talks of the talks are highly relevant to the material in this class for the semester, pick one to watch](https://vimeo.com/eyeofestival) and let's share what you learned in class next week! Here are some suggestions: [Stefanie Posavec 2022](https://vimeo.com/777860720), [Stephanie Dinkins 2019](https://vimeo.com/354277038), [Sarah Goff Hennigh-Palermo 2019](https://vimeo.com/354276927), [Janelle Shane 2018](https://vimeo.com/287093890), [Darius Kazemi 2016](https://vimeo.com/176981293), [Allison Parrish 2015](https://vimeo.com/134734729).
    - Introduction and Chapter 8 (which includes section on Jackson Mac Low's diastic) from [Virtual muse experiments in computer poetry, Charles O. Hartman 1949- Project Muse., Hanover, NH : University Press of New England c1996](https://muse-jhu-edu.proxy.library.nyu.edu/book/2399) - login via NYU for access to downloadable PDFs
-3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online ([blog post](https://docs.google.com/presentation/d/17V6EHorAnHwCeZaUGAQ0W2GvVOgUk9LsU8bOFGP4m3g/edit#slide=id.g8af5174524_0_253), [p5 web editor](https://youtu.be/dtHxDggkBYc), [Glitch](https://glitch.com/), [GitHub pages](https://thecodingtrain.com/tracks/p5-tips-and-tricks/more-p5/github-pages-hosting)). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 8 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
+
+3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Document your results online in whatever format you like—[blog post](https://docs.google.com/presentation/d/17V6EHorAnHwCeZaUGAQ0W2GvVOgUk9LsU8bOFGP4m3g/edit#slide=id.g8af5174524_0_253), [notion](https://www.notion.so/), [p5 web editor](https://youtu.be/dtHxDggkBYc), [Glitch](https://glitch.com/), [GitHub pages](https://thecodingtrain.com/tracks/p5-tips-and-tricks/more-p5/github-pages-hosting). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 8 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
 
 ## Add your name / link to your assignment below
 
-_(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+_(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
 - Joyce -- Happy Filter https://joycezheng.notion.site/Blog-Post-Week-1-Joyce-dbfec498b253418da530d3070f7b6228?pvs=4 
