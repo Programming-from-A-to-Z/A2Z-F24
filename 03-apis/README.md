@@ -1,5 +1,10 @@
 # APIs and Libraries
 
+## Promises and async/await
+
+- 🍿 [Arrow Function video tutorial](https://youtu.be/mrYMzpbFz18)
+- 🍿 [Promises videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
+
 ## NLP Libraries
 
 - 🔗 [RiTa](https://rednoise.org/rita/), a software toolkit for computational literature created by Daniel Howe
