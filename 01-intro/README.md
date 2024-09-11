@@ -64,3 +64,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Joyce -- [Happy Filter](https://joycezheng.notion.site/Blog-Post-Week-1-Joyce-dbfec498b253418da530d3070f7b6228?pvs=4)
 - Seun Elemo -- [Constrained Writing / Algorithmic Writing](https://fluff-saturnalia-4b2.notion.site/Assignment-1-Constrained-Writing-Algorithmic-b38353f98cb04526a82f84ccfc0652ae?pvs=4)
 - Lening -- [Assignment 1](https://repeated-cake-04e.notion.site/Programming-from-A-Z-5bbe5a8ef7194741b8a930b2cf1ae1d4?pvs=4)
+- Wallis --[week 1 — Constrained words](https://wallis-itp-24.webflow.io/fall-course/business)
