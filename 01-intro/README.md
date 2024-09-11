@@ -60,3 +60,4 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+- Michal Shoshan -- [week o1 TEXT-INPUT](https://michals-blog-site.webflow.io/weeks/paz-week1)
