@@ -51,10 +51,10 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 
 ### Regular Expressions in JavaScript
 
-- Chop up a text into words using `split()` and rebuild the text as separate `<span>` elements that you can interact with individually. [Here is example code](https://editor.p5js.org/codingtrain/sketches/Jr3zCQw-9) from [this video](https://thecodingtrain.com/challenges/38-word-interactor).
+- Chop up a text into words using `split()` and rebuild the text as separate `<span>` elements that you can interact with individually. Here is [an example using `split()`](https://editor.p5js.org/codingtrain/sketches/Jr3zCQw-9) from [this "word interacator" video](https://thecodingtrain.com/challenges/38-word-interactor).
 - Create a programmatic version of the algorithm you developed for the constrained writing exercise.
 - The [Flesch Index](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) is a "reading level" score for a passage in English. Here is a [p5 sketch that calculates the Flesch Index](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0) for a body of text. How could this be improved / changed with regular expressions?
-- Create a mad libs generator. For reference [here is a video about making Mad Libs with p5.js](https://thecodingtrain.com/challenges/39-madlibs-generator)!
+- Create a mad libs generator. For reference here is a [video about making Mad Libs with p5.js](https://thecodingtrain.com/challenges/39-madlibs-generator)!
 - Create a "word replacer" (all words that start with E to words that start with A, all fruits with vegetables, etc.)
 
 ## Data and APIs
@@ -62,16 +62,10 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 In preparation for next week, add a link to a data source or API (even just data that appears in raw form on a web page) that interests you! Don't worry about this too much, anything will do! I'll use this list to prepare examples for next week.
 
 - add a link to your API / data source here
-- Athena -- [The New York Times Developer Network](https://developer.nytimes.com)
-- Mathew -- [The Internet Movie Script Database](https://imsdb.com/) -- Not sure if it has an official API, [but these github projects may be useful](https://github.com/topics/imsdb)
-- Cindy --[Are.na API](https://dev.are.na/documentation/channels)
-- Oliver --[Artsy.net API](https://developers.artsy.net)
-- Priyanka -- [OpenWeatherMap API](https://openweathermap.org/api)
--
 
 ## Add your assignment below via Pull Request
 
-_(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+_(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
 
