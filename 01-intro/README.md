@@ -68,3 +68,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Wallis --[week 1 — Constrained words](https://wallis-itp-24.webflow.io/fall-course/business)
 - Lening -- [Chinese N+7](https://repeated-cake-04e.notion.site/Programming-from-A-Z-5bbe5a8ef7194741b8a930b2cf1ae1d4?pvs=4)
 - Zhiyang -- [Complex your sentence](https://github.com/isZhiyangWang/atoz/blob/main/docs/week1.md)
+- Weber -- [HW1] (https://weber-wong.notion.site/HW1-c438fe92d3d54413a806f8d9a91764b1?pvs=4)
