@@ -60,6 +60,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+- Weber -- [HW1](https://weber-wong.notion.site/HW1-c438fe92d3d54413a806f8d9a91764b1?pvs=4)
 - Michal Shoshan -- [week o1 TEXT-INPUT](https://michals-blog-site.webflow.io/weeks/paz-week1)
 - Joyce -- [Happy Filter](https://joycezheng.notion.site/Blog-Post-Week-1-Joyce-dbfec498b253418da530d3070f7b6228?pvs=4)
 - Seun Elemo -- [Constrained Writing / Algorithmic Writing](https://fluff-saturnalia-4b2.notion.site/Assignment-1-Constrained-Writing-Algorithmic-b38353f98cb04526a82f84ccfc0652ae?pvs=4)
