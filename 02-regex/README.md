@@ -1,17 +1,11 @@
 # Regular Expressions
 
-## Aside: DOM and ES6 Review
-
-- 🍿 [Arrow Function video tutorial](https://youtu.be/mrYMzpbFz18)
-- 🍿 [Promises videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
-- 🍿 [Word Interactor video and code example](https://thecodingtrain.com/challenges/38-word-interactor)
-
 ## Regex Notes and Videos
 
 - 📚 [2016 Notes and Examples](https://shiffman-archive.netlify.app/a2z/regex)
 - [Regular Expression Video Tutorials](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
   - 🚨 [Intro to Regex](https://youtu.be/7DG3kCDx53c?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~11 min
-  - 🚨 [Meta-Characteres](https://www.youtube.com/watch?v=YTocEnDsMNw&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w&index=2) - ~16 min
+  - 🚨 [Meta-Characters](https://www.youtube.com/watch?v=YTocEnDsMNw&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w&index=2) - ~16 min
   - 🚨 [Character Classes](https://www.youtube.com/watch?v=EfJU0Y9WAZ4&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w&index=3) - ~14 min
   - 🚨 [Capturing Groups](https://youtu.be/c9HbsUSWilw?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~13 min
   - 🍿 [Back References](https://youtu.be/Z66TeSTcP-Q?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~4 min
@@ -35,6 +29,13 @@
 - 🔗 [Regex Golf](https://alf.nu/RegexGolf)
 - 🔗 [Regular Expression Crossword](https://regexcrossword.com/)
 
+## Tokenizing Text
+
+- transformers.js [Tokenizer playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+- `split()` + regex
+- RiTa.js [tokenize() function](https://rednoise.org/rita/reference/RiTa/tokenize/index.html)
+
 ## Assignment
 
 Design an exercise around regular expressions. Here are some ideas if you are feeling stuck! (To be clear, just do **one** thing, and writing code is not required for this assignment!)
@@ -54,7 +55,7 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 - Chop up a text into words using `split()` and rebuild the text as separate `<span>` elements that you can interact with individually. Here is [an example using `split()`](https://editor.p5js.org/codingtrain/sketches/Jr3zCQw-9) from [this "word interacator" video](https://thecodingtrain.com/challenges/38-word-interactor).
 - Create a programmatic version of the algorithm you developed for the constrained writing exercise.
 - The [Flesch Index](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) is a "reading level" score for a passage in English. Here is a [p5 sketch that calculates the Flesch Index](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0) for a body of text. How could this be improved / changed with regular expressions?
-- Create a mad libs generator. For reference here is a [video about making Mad Libs with p5.js](https://thecodingtrain.com/challenges/39-madlibs-generator)!
+- Create a mad libs generator. For reference here is a [video about making Mad Libs with p5.js](https://thecodingtrain.com/challenges/39-madlibs-generator)! (I also made a simpler [mad libs example with local CSV file](https://editor.p5js.org/a2zitp/sketches/yZp-eF9KD))
 - Create a "word replacer" (all words that start with E to words that start with A, all fruits with vegetables, etc.)
 
 ## Data and APIs
