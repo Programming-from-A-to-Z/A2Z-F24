@@ -65,12 +65,14 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 In preparation for next week, add a link to a data source or API (even just data that appears in raw form on a web page) that interests you! Don't worry about this too much, anything will do! I'll use this list to prepare examples for next week.
 
 - add a link to your API / data source here
+- Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+- Cara --[Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
