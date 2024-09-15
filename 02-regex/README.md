@@ -25,7 +25,7 @@
 
 ## Libraries and Games
 
-- 🔗 [randexp.js](http://fent.github.io/randexp.js/)
+- 🔗 [randexp.js](http://fent.github.io/randexp.js/) and [p5.js randexp example](https://editor.p5js.org/a2zitp/sketches/OdXw3Mhu5)
 - 🔗 [Regex Golf](https://alf.nu/RegexGolf)
 - 🔗 [Regular Expression Crossword](https://regexcrossword.com/)
 
@@ -57,6 +57,8 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 - The [Flesch Index](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) is a "reading level" score for a passage in English. Here is a [p5 sketch that calculates the Flesch Index](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0) for a body of text. How could this be improved / changed with regular expressions?
 - Create a mad libs generator. For reference here is a [video about making Mad Libs with p5.js](https://thecodingtrain.com/challenges/39-madlibs-generator)! (I also made a simpler [mad libs example with local CSV file](https://editor.p5js.org/a2zitp/sketches/yZp-eF9KD))
 - Create a "word replacer" (all words that start with E to words that start with A, all fruits with vegetables, etc.)
+- Try generating text with [randexp.js](http://fent.github.io/randexp.js/) + [p5.js randexp example](https://editor.p5js.org/a2zitp/sketches/OdXw3Mhu5).
+
 
 ## Data and APIs
 
