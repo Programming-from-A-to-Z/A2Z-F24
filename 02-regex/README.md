@@ -66,7 +66,7 @@ In preparation for next week, add a link to a data source or API (even just data
 
 - add a link to your API / data source here
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
-- iris --[Memes](https://github.com/D3vd/Meme_Api)
+- Iris --[Memes](https://github.com/D3vd/Meme_Api)
 
 ## Add your assignment below via Pull Request
 
