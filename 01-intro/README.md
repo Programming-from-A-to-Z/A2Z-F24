@@ -60,8 +60,16 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+- Weber -- [HW1](https://weber-wong.notion.site/HW1-c438fe92d3d54413a806f8d9a91764b1?pvs=4)
 - Michal Shoshan -- [week o1 TEXT-INPUT](https://michals-blog-site.webflow.io/weeks/paz-week1)
 - Joyce -- [Happy Filter](https://joycezheng.notion.site/Blog-Post-Week-1-Joyce-dbfec498b253418da530d3070f7b6228?pvs=4)
 - Seun Elemo -- [Constrained Writing / Algorithmic Writing](https://fluff-saturnalia-4b2.notion.site/Assignment-1-Constrained-Writing-Algorithmic-b38353f98cb04526a82f84ccfc0652ae?pvs=4)
+- Lening -- [Assignment 1](https://repeated-cake-04e.notion.site/Programming-from-A-Z-5bbe5a8ef7194741b8a930b2cf1ae1d4?pvs=4)
+- Cara -- [Week 1 - letter play](https://www.notion.so/Week1-3f56e3c736bf46c2af953394e3195a68)
+- LovelyA72 -- [Assignment1](https://a2z.kmoene.com/p/58345-1116.html)
+- Xiaoan (Sean) -- [rhymes replacement](https://hypnotic-jobaria-a8b.notion.site/W1-Constrained-Writing-b3dbbf93c221461b8ee73788b04c65ec?pvs=4)
+- Wallis --[week 1 — Constrained words](https://wallis-itp-24.webflow.io/fall-course/business)
 - Lening -- [Chinese N+7](https://repeated-cake-04e.notion.site/Programming-from-A-Z-5bbe5a8ef7194741b8a930b2cf1ae1d4?pvs=4)
 - Zhiyang -- [Complex your sentence](https://github.com/isZhiyangWang/atoz/blob/main/docs/week1.md)
+- Shun -- [week 1](https://vagabond-taker-69c.notion.site/A2Z-F24-Week-1-7778e8a1697e4b878e944b53fbb13247)
+
