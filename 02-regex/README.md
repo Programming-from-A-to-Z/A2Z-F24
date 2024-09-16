@@ -72,7 +72,10 @@ In preparation for next week, add a link to a data source or API (even just data
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+
 - Cara --[Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
+- Zhiyang Wang -- [Complex your sentences-V-2.0.0](https://github.com/isZhiyangWang/atoz/blob/main/docs/week2.md)
+
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
