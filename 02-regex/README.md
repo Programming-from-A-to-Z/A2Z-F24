@@ -67,6 +67,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - add a link to your API / data source here
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
 - Iris --[Memes](https://github.com/D3vd/Meme_Api)
+- Shun --[2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
 
 ## Add your assignment below via Pull Request
 
