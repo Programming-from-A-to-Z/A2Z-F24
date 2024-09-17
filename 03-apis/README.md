@@ -18,14 +18,14 @@
 ### JSON
 
 - 🔗 [Corpora maintained by tinysubversions](https://github.com/dariusk/corpora)
-- 🔗 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON)
-- 📚 [loadJSON, fetch, promises slides](https://docs.google.com/presentation/d/1z5x5PZ0EhGxFkt488Q3edLdvY67Ptg0AH5KKmP2vE_Q/edit?usp=sharing)
+- 🔗 [loadJSON()](https://p5js.org/reference/p5/loadJSON/)
+- 📚 [loadJSON, fetch, promises slides](https://docs.google.com/presentation/d/1ZD488eK_hK133P07bDArxHnecjI9LFS0bb4KMfSi_qg/edit?usp=sharing)
 - 📚 [2016 Notes and Examples](https://shiffman-archive.netlify.app/a2z/data-apis/)
 
 ### Dictionary / Lexicon / Word Finding APIs
 
 - 🔗 [Data Muse](https://www.datamuse.com/api/)
-- 🔗 [Wordnik](https://www.wordnik.com/)
+- 🔗 [Wordnik](https://developer.wordnik.com/)
 - 🔗 [Wordnet](https://wordnet.princeton.edu/)
 
 ### JavaScript nuts and bolts
@@ -42,15 +42,21 @@
 - 🔢 [2015 NY Times video tutorial](https://youtu.be/IMne3LY4bks), [nytimes docs](https://developer.nytimes.com/)
 - 🍿 [Full 2019 Working with Data and APIs video series](https://thecodingtrain.com/tracks/data-and-apis-in-javascript) - 1: Client Side Basics
 
+### Tabular Data
+
+- 🔗 [loadTable()](https://p5js.org/reference/p5/loadTable/)
+- 🍿 [Visualizing Climate Data](https://thecodingtrain.com/challenges/178-climate-spiral)
+- 🍿 [Mapping Earthquake Data](https://thecodingtrain.com/challenges/57-mapping-earthquake-data)
+
 ## Reading
 
 - 📕 [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/) by Kate Crawford and Trevor Paglen
-- 📚 [The Point of Collection](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p) by Mimi Onuoha (see: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets))
+- 📚 [The Point of Collection](https://medium.com/datasociety-points/the-point-of-collection-8ee44ad7c2fa) by Mimi Onuoha (see: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets))
 - 📚 [Introduction: Why Data Science Needs Feminism by Catherine D'Ignazio and Lauren Klein](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3)
 
 ## Assignment
 
-1. Load "external" data in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
+1. Load "external" data in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/p5/loadJSON/) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
 
    - Look through [Corpora](https://github.com/dariusk/corpora) and download JSON files for use in a p5.js sketch. For this I suggest using `loadJSON()` directly.
    - Use [RiTa.js](https://github.com/dhowe/RiTaJS) or [Compromise](https://github.com/spencermountain/compromise) to analyze and/or modify text.
