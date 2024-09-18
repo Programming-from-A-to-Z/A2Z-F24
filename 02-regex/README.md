@@ -68,11 +68,12 @@ In preparation for next week, add a link to a data source or API (even just data
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
 - Iris --[Memes](https://github.com/D3vd/Meme_Api)
 - Shun --[2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
-- Seun -- [Libraries in NYC] (https://data.cityofnewyork.us/Business/Library/p4pf-fyc4)
+- Seun -- [Libraries in NYC](https://data.cityofnewyork.us/Business/Library/p4pf-fyc4)
 - Iris -- [Memes](https://github.com/D3vd/Meme_Api)
 - Shun -- [2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
 - Wallis -- [WordNet](https://wordnet.princeton.edu/)
 - Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
+- Michal -- [Books API](https://openlibrary.org/developers/api)
  
 ## Add your assignment below via Pull Request
 
@@ -86,6 +87,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Seun Elemo -- [Punctuations are important! (Regex)](https://tinyurl.com/3pknd96d)
 - LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
 - Iris --[Week2](https://bw0914.notion.site/programming-a2z-week2-homework-10375685ef9580c6bbe7d78965639c22?pvs=4)
+- Michal -- [a small adjustment](https://michals-blog-site.webflow.io/weeks/paz-week2)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
