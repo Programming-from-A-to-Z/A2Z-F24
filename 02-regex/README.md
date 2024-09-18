@@ -78,6 +78,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cara --[Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
 - Zhiyang Wang -- [Complex your sentences-V-2.0.0](https://github.com/isZhiyangWang/atoz/blob/main/docs/week2.md)
 - Shun -- [Week 2](https://vagabond-taker-69c.notion.site/A2Z-F24-Week2-104f5cf5797a800a8387e4c8ae0fcd16?pvs=4)
+- LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
 
 
 ## Emoji Key for Video Tutorials, Readings, and more
