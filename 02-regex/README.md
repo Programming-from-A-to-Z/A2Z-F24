@@ -85,6 +85,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Joyce -- [Week 2 - regex_replace_cat_with_dog](https://joycezheng.notion.site/assignment2-1024ee8df27e802fa70ec39c8899f505?pvs=4)
 - Seun Elemo -- [Punctuations are important! (Regex)](https://tinyurl.com/3pknd96d)
 - LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
+- Wallis -- [Organize downloads](https://wallis-itp-24.webflow.io/fall-course/business)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
