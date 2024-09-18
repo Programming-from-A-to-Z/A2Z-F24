@@ -66,22 +66,24 @@ In preparation for next week, add a link to a data source or API (even just data
 
 - add a link to your API / data source here
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
+- Iris --[Memes](https://github.com/D3vd/Meme_Api)
+- Shun --[2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
 - Iris -- [Memes](https://github.com/D3vd/Meme_Api)
 - Shun -- [2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
 - Wallis -- [WordNet](https://wordnet.princeton.edu/)
-
+- Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
+ 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
-
-- Cara --[Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
+- Cara -- [Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
 - Zhiyang Wang -- [Complex your sentences-V-2.0.0](https://github.com/isZhiyangWang/atoz/blob/main/docs/week2.md)
 - Shun -- [Week 2](https://vagabond-taker-69c.notion.site/A2Z-F24-Week2-104f5cf5797a800a8387e4c8ae0fcd16?pvs=4)
+- Joyce -- [Week 2 - regex_replace_cat_with_dog](https://joycezheng.notion.site/assignment2-1024ee8df27e802fa70ec39c8899f505?pvs=4)
 - Seun Elemo -- [Punctuations are important! (Regex)](https://tinyurl.com/3pknd96d)
 - LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
-
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
