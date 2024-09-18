@@ -87,6 +87,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Joyce -- [Week 2 - regex_replace_cat_with_dog](https://joycezheng.notion.site/assignment2-1024ee8df27e802fa70ec39c8899f505?pvs=4)
 - Seun Elemo -- [Punctuations are important! (Regex)](https://tinyurl.com/3pknd96d)
 - LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
+- Wallis -- [Organize downloads](https://wallis-itp-24.webflow.io/fall-course/business)
 - Lejing -- [regex](https://lejingqiu.notion.site/week-2-Regex-105ed6a177b0802d8d19d244a3007739?pvs=4)
 - Iris --[Week2](https://bw0914.notion.site/programming-a2z-week2-homework-10375685ef9580c6bbe7d78965639c22?pvs=4)
 - Michal -- [a small adjustment](https://michals-blog-site.webflow.io/weeks/paz-week2)
