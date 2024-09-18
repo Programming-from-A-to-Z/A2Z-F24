@@ -72,6 +72,6 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lening -- [Chinese N+7](https://repeated-cake-04e.notion.site/Programming-from-A-Z-5bbe5a8ef7194741b8a930b2cf1ae1d4?pvs=4)
 - Zhiyang -- [Complex your sentence](https://github.com/isZhiyangWang/atoz/blob/main/docs/week1.md)
 - Shun -- [week 1](https://vagabond-taker-69c.notion.site/A2Z-F24-Week-1-7778e8a1697e4b878e944b53fbb13247)
-- Caroline -- [Week1] https://www.carolinenivetha.com/ridiculator
+- Caroline -- [Week1](https://www.carolinenivetha.com/ridiculator)
   
 
