@@ -68,7 +68,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
 - Iris --[Memes](https://github.com/D3vd/Meme_Api)
 - Shun --[2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
-
+- Seun -- [Libraries in NYC] (https://data.cityofnewyork.us/Business/Library/p4pf-fyc4)
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
