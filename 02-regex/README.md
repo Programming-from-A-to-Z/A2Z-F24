@@ -73,6 +73,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Shun -- [2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
 - Wallis -- [WordNet](https://wordnet.princeton.edu/)
 - Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
+- Lening --[https://repeated-cake-04e.notion.site/Week2-6bfc3115ae624586a4238f39fbb8317e?pvs=4]
  
 ## Add your assignment below via Pull Request
 
@@ -85,6 +86,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Joyce -- [Week 2 - regex_replace_cat_with_dog](https://joycezheng.notion.site/assignment2-1024ee8df27e802fa70ec39c8899f505?pvs=4)
 - Seun Elemo -- [Punctuations are important! (Regex)](https://tinyurl.com/3pknd96d)
 - LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
+- Lening --[https://replicate.com/zylim0702/remove-object?prediction=g20ykx9m6srgp0cf5e9ap3pygm]
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
