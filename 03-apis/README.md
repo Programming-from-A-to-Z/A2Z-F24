@@ -47,6 +47,7 @@
 - 🔗 [loadTable()](https://p5js.org/reference/p5/loadTable/)
 - 🍿 [Visualizing Climate Data](https://thecodingtrain.com/challenges/178-climate-spiral)
 - 🍿 [Mapping Earthquake Data](https://thecodingtrain.com/challenges/57-mapping-earthquake-data)
+-  [Madlibs Generator](https://thecodingtrain.com/challenges/39-madlibs-generator), [simplified code example loading direct from CSV](https://editor.p5js.org/a2zitp/sketches/yZp-eF9KD)
 
 ## Reading
 
