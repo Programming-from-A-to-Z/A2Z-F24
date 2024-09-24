@@ -75,6 +75,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
 - Lejing -- [wordsapi](https://www.wordsapi.com/docs/)
 - Michal -- [Books API](https://openlibrary.org/developers/api)
+- Caroline -- [A Benchmark Dataset for Learning to Intervene in Online Hate Speech https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech]
  
 ## Add your assignment below via Pull Request
 
