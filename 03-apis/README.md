@@ -75,6 +75,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Joyce - [Dog's Facts API](https://joycezheng.notion.site/Assignment3-fetch-API-10b4ee8df27e8062bf4ffb98e20c2bd0?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
