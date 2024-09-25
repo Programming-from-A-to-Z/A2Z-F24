@@ -75,7 +75,8 @@ In preparation for next week, add a link to a data source or API (even just data
 - Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
 - Lejing -- [wordsapi](https://www.wordsapi.com/docs/)
 - Michal -- [Books API](https://openlibrary.org/developers/api)
- 
+- Zhiyang [Free Dictionary](https://dictionaryapi.dev/)
+
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
