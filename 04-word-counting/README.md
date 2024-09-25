@@ -21,7 +21,7 @@
 - 🔗 [SPEECH COMPARISON](http://www.runemadsen.com/work/speech-comparison/) by Rune Madsen
 - 🔗 [Book-Book](https://elmcip.net/node/14504) by Sarah Groff-Palermo _I can't find this project active online anymore!_
 - 🔗 [Word Tree](http://hint.fm/projects/wordtree/) by Martin Wattenberg and Fernanda Viegas
-- 🔗 [Entangled Word Bank](http://www.stefanieposavec.com/entangled-word-bank) by Stephanie Posavec
+- 🔗 [Writing Without Words](https://www.stefanieposavec.com/writing-without-words) by Stephanie Posavec
 - 🔗 [Annual Report 2013](http://feltron.com/FAR13.html) by Nicholas Feltron
 - 🔗 [Partisan Thesauras](http://partisanthesaurus.com/) by Melanie Hoff
 - 🔗 [Literary Constellations](https://c82.net/work/?id=357) by Nicholas Rougeux
