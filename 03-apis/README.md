@@ -75,6 +75,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Zhiyang - [Phonetics](https://iszhiyang.com/atoz/site/week3/)
 - Cara - [Data and APIs](https://pastoral-galliform-f42.notion.site/Week-3-9b973d71d7d643f692d2846efe6356ba?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
