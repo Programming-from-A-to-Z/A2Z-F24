@@ -25,7 +25,7 @@
 
 ## Libraries and Games
 
-- 🔗 [randexp.js](http://fent.github.io/randexp.js/)
+- 🔗 [randexp.js](http://fent.github.io/randexp.js/) and [p5.js randexp example](https://editor.p5js.org/a2zitp/sketches/OdXw3Mhu5)
 - 🔗 [Regex Golf](https://alf.nu/RegexGolf)
 - 🔗 [Regular Expression Crossword](https://regexcrossword.com/)
 
@@ -57,6 +57,8 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 - The [Flesch Index](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) is a "reading level" score for a passage in English. Here is a [p5 sketch that calculates the Flesch Index](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0) for a body of text. How could this be improved / changed with regular expressions?
 - Create a mad libs generator. For reference here is a [video about making Mad Libs with p5.js](https://thecodingtrain.com/challenges/39-madlibs-generator)! (I also made a simpler [mad libs example with local CSV file](https://editor.p5js.org/a2zitp/sketches/yZp-eF9KD))
 - Create a "word replacer" (all words that start with E to words that start with A, all fruits with vegetables, etc.)
+- Try generating text with [randexp.js](http://fent.github.io/randexp.js/) + [p5.js randexp example](https://editor.p5js.org/a2zitp/sketches/OdXw3Mhu5).
+
 
 ## Data and APIs
 
@@ -64,13 +66,33 @@ In preparation for next week, add a link to a data source or API (even just data
 
 - add a link to your API / data source here
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
+- Iris --[Memes](https://github.com/D3vd/Meme_Api)
+- Shun --[2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
+- Seun -- [Libraries in NYC](https://data.cityofnewyork.us/Business/Library/p4pf-fyc4)
+- Iris -- [Memes](https://github.com/D3vd/Meme_Api)
+- Shun -- [2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
+- Wallis -- [WordNet](https://wordnet.princeton.edu/)
+- Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
+- Lejing -- [wordsapi](https://www.wordsapi.com/docs/)
+- Michal -- [Books API](https://openlibrary.org/developers/api)
+- Zhiyang [Free Dictionary](https://dictionaryapi.dev/)
 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
-- Cara --[Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
+- Cara -- [Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
+- Zhiyang Wang -- [Complex your sentences-V-2.0.0](https://github.com/isZhiyangWang/atoz/blob/main/docs/week2.md)
+- Shun -- [Week 2](https://vagabond-taker-69c.notion.site/A2Z-F24-Week2-104f5cf5797a800a8387e4c8ae0fcd16?pvs=4)
+- Joyce -- [Week 2 - regex_replace_cat_with_dog](https://joycezheng.notion.site/assignment2-1024ee8df27e802fa70ec39c8899f505?pvs=4)
+- Seun Elemo -- [Punctuations are important! (Regex)](https://tinyurl.com/3pknd96d)
+- LovelyA72 -- [Week2](https://a2z.kmoene.com/p/393012-1718.html)
+- Sean -- [Regex Playground from A to Z](https://sseanliu.github.io/regex-playground/)
+- Wallis -- [Organize downloads](https://wallis-itp-24.webflow.io/fall-course/business)
+- Lejing -- [regex](https://lejingqiu.notion.site/week-2-Regex-105ed6a177b0802d8d19d244a3007739?pvs=4)
+- Iris --[Week2](https://bw0914.notion.site/programming-a2z-week2-homework-10375685ef9580c6bbe7d78965639c22?pvs=4)
+- Michal -- [a small adjustment](https://michals-blog-site.webflow.io/weeks/paz-week2)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
