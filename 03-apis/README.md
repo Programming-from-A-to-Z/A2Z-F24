@@ -76,6 +76,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - Zhiyang - [Phonetics](https://iszhiyang.com/atoz/site/week3/)
+- Cara - [Data and APIs](https://pastoral-galliform-f42.notion.site/Week-3-9b973d71d7d643f692d2846efe6356ba?pvs=4)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
