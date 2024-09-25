@@ -76,6 +76,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - LovelyA72 - [Week 3](https://a2z.kmoene.com/p/474618-2418.html)
+- Zhiyang - [Phonetics](https://iszhiyang.com/atoz/site/week3/)
+- Cara - [Data and APIs](https://pastoral-galliform-f42.notion.site/Week-3-9b973d71d7d643f692d2846efe6356ba?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
