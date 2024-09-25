@@ -81,7 +81,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Zhiyang - [Phonetics](https://iszhiyang.com/atoz/site/week3/)
 - Cara - [Data and APIs](https://pastoral-galliform-f42.notion.site/Week-3-9b973d71d7d643f692d2846efe6356ba?pvs=4)
 - Seun [Let's Go To Space!](https://fluff-saturnalia-4b2.notion.site/APIs-and-Libraries-Seun-Elemo-10c6783215b280e790e7de460a81e701?pvs=4)
-
+- Michal [API call - Project Gutenberg](https://michals-blog-site.webflow.io/weeks/paz-week3)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
