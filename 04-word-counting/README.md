@@ -68,6 +68,7 @@ Reflect on your process of word counting and consider the following questions:
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Joyce - [Assignment 4 - 女](https://joycezheng.notion.site/Assignment-4-1104ee8df27e809aba9ad4751cedf4d4?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
