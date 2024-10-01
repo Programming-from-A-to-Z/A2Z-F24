@@ -19,12 +19,13 @@
 ### Creative Inspiration
 
 - 🔗 [SPEECH COMPARISON](http://www.runemadsen.com/work/speech-comparison/) by Rune Madsen
-- 🔗 [Book-Book](http://sarahghp.com/projects/book-book.html) by Sarah Groff-Palermo
+- 🔗 [Book-Book](https://elmcip.net/node/14504) by Sarah Groff-Palermo _I can't find this project active online anymore!_
 - 🔗 [Word Tree](http://hint.fm/projects/wordtree/) by Martin Wattenberg and Fernanda Viegas
-- 🔗 [Entangled Word Bank](http://www.stefanieposavec.com/entangled-word-bank) by Stephanie Posavec
+- 🔗 [Writing Without Words](https://www.stefanieposavec.com/writing-without-words) by Stephanie Posavec
 - 🔗 [Annual Report 2013](http://feltron.com/FAR13.html) by Nicholas Feltron
 - 🔗 [Partisan Thesauras](http://partisanthesaurus.com/) by Melanie Hoff
 - 🔗 [Literary Constellations](https://c82.net/work/?id=357) by Nicholas Rougeux
+- 🔗 [An Interactive Visualization of Every Line in Hamilton](https://pudding.cool/2017/03/hamilton/) by Shirley Wu
 
 ## Text Analysis
 
@@ -66,7 +67,9 @@ Reflect on your process of word counting and consider the following questions:
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-Cara - [word counting color intensity](https://www.notion.so/Week-4-111fc0e698e4800d8ce0c8aa64161b04)
+- Name - [title](url)
+- Joyce - [Assignment 4 - 女](https://joycezheng.notion.site/Assignment-4-1104ee8df27e809aba9ad4751cedf4d4?pvs=4)
+- Cara - [word counting color intensity](https://www.notion.so/Week-4-111fc0e698e4800d8ce0c8aa64161b04)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
