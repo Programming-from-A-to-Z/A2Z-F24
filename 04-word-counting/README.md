@@ -69,6 +69,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - Joyce - [Assignment 4 - 女](https://joycezheng.notion.site/Assignment-4-1104ee8df27e809aba9ad4751cedf4d4?pvs=4)
+- Cara - [word counting color intensity](https://www.notion.so/Week-4-111fc0e698e4800d8ce0c8aa64161b04)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
