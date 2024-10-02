@@ -72,7 +72,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cara - [word counting color intensity](https://www.notion.so/Week-4-111fc0e698e4800d8ce0c8aa64161b04)
 - Seun Elemo - [Learn Yoruba](https://fluff-saturnalia-4b2.notion.site/Assignment-4-Learn-Yoruba-1136783215b28044b01cdb84aafcddc1?pvs=4)
 - Lejing - [Japanese Noun Counter](https://lejingqiu.notion.site/Week-4-Word-Analysis-112ed6a177b080d8a4a7da471a85191c?pvs=4)
-
+- Zhiyang - [Word Count Tree](https://iszhiyang.com/atoz/site/week4/)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
