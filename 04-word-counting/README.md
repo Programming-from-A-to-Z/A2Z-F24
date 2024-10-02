@@ -78,6 +78,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lening - [Word Counting](https://repeated-cake-04e.notion.site/Week4-97d4d89e86494b748539e2f97bfd0db1?pvs=4)
 - Sean - [TechJargon](https://hypnotic-jobaria-a8b.notion.site/W4-TechJargon-113a2fdd2bbf805abf67f5ee99bf3579?pvs=4)
 - Michal - (Comparing books of PINOCCHIO) [https://michals-blog-site.webflow.io/weeks/pa2z4]
+- Wallis - (iMessage data)[https://wallismb.notion.site/04-Word-Counting-10e0d61d557780498bfadeaeaf919c64?pvs=4]
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
