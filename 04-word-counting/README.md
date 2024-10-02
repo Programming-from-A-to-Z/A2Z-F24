@@ -76,6 +76,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Shun - [Word counter for chat (Chinese)](https://vagabond-taker-69c.notion.site/A2Z-F24-Week4-111f5cf5797a80ccb59ce5ba8309e2fc?pvs=4)
 - Zhiyang - [Word Count Tree](https://iszhiyang.com/atoz/site/week4/)
 - Lening - [Word Counting](https://repeated-cake-04e.notion.site/Week4-97d4d89e86494b748539e2f97bfd0db1?pvs=4)
+- Michal - (Comparing books of PINOCCHIO) [https://michals-blog-site.webflow.io/weeks/pa2z4]
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
