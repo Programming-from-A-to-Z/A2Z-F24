@@ -72,6 +72,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cara - [word counting color intensity](https://www.notion.so/Week-4-111fc0e698e4800d8ce0c8aa64161b04)
 - Seun Elemo - [Learn Yoruba](https://fluff-saturnalia-4b2.notion.site/Assignment-4-Learn-Yoruba-1136783215b28044b01cdb84aafcddc1?pvs=4)
 - Lejing - [Japanese Noun Counter](https://lejingqiu.notion.site/Week-4-Word-Analysis-112ed6a177b080d8a4a7da471a85191c?pvs=4)
+- Iris - [Jieba](https://bw0914.notion.site/programming-a2z-week-4-homework-11275685ef958005b857e88bd044fb46?pvs=4)
 - Shun - [Word counter for chat (Chinese)](https://vagabond-taker-69c.notion.site/A2Z-F24-Week4-111f5cf5797a80ccb59ce5ba8309e2fc?pvs=4)
 - Zhiyang - [Word Count Tree](https://iszhiyang.com/atoz/site/week4/)
 - Lening - [Word Counting](https://repeated-cake-04e.notion.site/Week4-97d4d89e86494b748539e2f97bfd0db1?pvs=4)
