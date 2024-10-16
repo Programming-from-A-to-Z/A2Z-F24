@@ -16,13 +16,13 @@
 ## Twitter API
 
 - 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1rL95AggCb0EG6sBhZ47OWWgI_t7Hllqbyt4AnD2c3-4/edit?usp=sharing)
-- 💻 [Twitter Example Code (tested in 2023, features limited, see README for more)](https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe)
+- 💻 [Twitter Example Code (tested in 2024, features limited, see README for more)](https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe)
 - [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
 
 ## Discord API
 
+- 💻 [Discord Bot Example code and README steps to follow](https://github.com/Programming-from-A-to-Z/Discord-Bot-Examples)
 - 🚨 [Coding a Discord Bot](https://youtu.be/AvQcTjB3gPg)
-- 💻 **[2023 latest Discord Bot Example code and README steps to follow!](https://github.com/Programming-from-A-to-Z/Discord-Bot-Examples)**
 - 📕 [discord.js guide](https://discordjs.guide/)
 
 ## Reading
@@ -45,7 +45,7 @@
 
 ## Bot Project, Due Wed October 16
 
-Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/) and **TBD: what should we look at next week?!?!?** but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
+Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](#discord-api), [Twitter](#twitter-api), and [RiveScript + p5.js](#chatbots) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
 Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots,etc. Reflect on the [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process and documentation.
 
@@ -57,6 +57,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [project title](url)
 - LovelyA72 - [AMLT The Chat Bot](https://a2z.kmoene.com/p/073722-0903.html)
+- Cara - [koala-bot](https://pastoral-galliform-f42.notion.site/Week-6-11efc0e698e480f294cfdea70b5fae50?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
