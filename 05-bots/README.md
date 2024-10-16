@@ -57,6 +57,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [project title](url)
 - Cara - [koala-bot](https://pastoral-galliform-f42.notion.site/Week-6-11efc0e698e480f294cfdea70b5fae50?pvs=4)
+- Seun - [Burna Boy Lyrics-bot] (https://fluff-saturnalia-4b2.notion.site/Twitter-BOT-A2Z-Project-11e6783215b28048a4a3c3404c19fba2?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
