@@ -62,6 +62,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - LovelyA72 - [AMLT](https://a2z.kmoene.com/p/172928-1517.html)
 - Wallis + Michal [April & June](https://wallismb.notion.site/05-Discord-bots-pt-2-1210d61d557780088d01f79a5433807e?pvs=4)
 - Shun - [Trumpini](https://vagabond-taker-69c.notion.site/A2Z-F24-Week-6-121f5cf5797a80d2b990d6fb45bbdf82?pvs=4)
+- Wallis + Michal [April & June](https://wallismb.notion.site/05-Discord-bots-pt-2-1210d61d557780088d01f79a5433807e?pvs=4) 
+- Zhiyang - [SpeakBot](https://iszhiyang.com/atoz/site/week6/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
