@@ -89,6 +89,7 @@ Something you might consider is pulling the "terminal" words for your grammar fr
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
+- LovelyA72 - [AMLT Markov Port](https://a2z.kmoene.com/p/213741-2219.html)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
