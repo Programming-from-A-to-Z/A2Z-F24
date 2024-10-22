@@ -24,6 +24,7 @@
 - 💻 [Discord Bot Example code and README steps to follow](https://github.com/Programming-from-A-to-Z/Discord-Bot-Examples)
 - 🚨 [Coding a Discord Bot](https://youtu.be/AvQcTjB3gPg)
 - 📕 [discord.js guide](https://discordjs.guide/)
+- 📋 [discord.js docs](https://discord.js.org/docs/packages/discord.js/14.16.3)
 
 ## Reading
 

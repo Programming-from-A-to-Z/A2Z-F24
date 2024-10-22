@@ -14,6 +14,7 @@
 ### Markov Project References
 
 - 🎨 [ITP Course Generator by Allison Parrish](http://static.decontextualize.com/toys/next_semester)
+- 🎨 [Markov Visualizer](https://x.com/tylerangert/status/1385677572185407489) by Tyler Angert
 - 🎨 [WebTrigrams by Chris Harrison](http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams)
 - 📈 [Google N-Gram Viewer](https://books.google.com/ngrams), [google blog post about n-grams](http://googleresearch.blogspot.com/2006/08/all-our-n-gram-are-belong-to-you.html)
 - 🎨 [King James Programming](http://kingjamesprogramming.tumblr.com/)
@@ -69,7 +70,7 @@ It is not required to write any new code for this assignment, however I'll inclu
 - Design a webpage that displays the output of a markov generator a la [Allison Parrish's ITP course creator](http://static.decontextualize.com/toys/next_semester).
 - Create a bot that generates its output based on a markov chain.
 - Use a markov chain on something other than text. Record your own sequence of daily habits. Try musical notes. Could colors or shapes be generated with a markov chain? What else? You can find examples for [musical markov chains](https://luisaph.github.io/the-code-of-music-2018/#Markov) from Luisa Pereira's [Code of Music materials](https://luisaph.github.io/the-code-of-music-2018/).
-- Thinking back to [the word counting material](https://github.com/shiffman/A2Z-F23/tree/main/04-word-counting), visualoze n-gram frequencies and/or markov probabilities.
+- Thinking back to [the word counting material](https://github.com/shiffman/A2Z-F23/tree/main/04-word-counting), visualize n-gram frequencies and/or markov probabilities.
 
 ### Context-Free Grammars
 
