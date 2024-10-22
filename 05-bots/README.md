@@ -57,6 +57,15 @@ Prepare a 5 minute presentation on your bot on October 16.
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [project title](url)
+- Cara - [koala-bot](https://pastoral-galliform-f42.notion.site/Week-6-11efc0e698e480f294cfdea70b5fae50?pvs=4)
+- Seun - [Burna Boy Lyrics-bot](https://fluff-saturnalia-4b2.notion.site/Twitter-BOT-A2Z-Project-11e6783215b28048a4a3c3404c19fba2?pvs=4)
+- Lening - [QQQs](https://repeated-cake-04e.notion.site/Week6-Discord-Bot-1626af82f7064545a650cc706bef31f3)
+- LovelyA72 - [AMLT](https://a2z.kmoene.com/p/172928-1517.html)
+- Wallis + Michal [April & June](https://wallismb.notion.site/05-Discord-bots-pt-2-1210d61d557780088d01f79a5433807e?pvs=4)
+- Caroline [Anbot](https://www.carolinenivetha.com/anbot)
+- Shun - [Trumpini](https://vagabond-taker-69c.notion.site/A2Z-F24-Week-6-121f5cf5797a80d2b990d6fb45bbdf82?pvs=4)
+- Wallis + Michal [April & June](https://wallismb.notion.site/05-Discord-bots-pt-2-1210d61d557780088d01f79a5433807e?pvs=4) 
+- Zhiyang - [SpeakBot](https://iszhiyang.com/atoz/site/week6/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
