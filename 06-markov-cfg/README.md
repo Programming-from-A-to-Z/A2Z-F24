@@ -43,7 +43,7 @@
 ## CFG Visual Art
 
 - 📚 [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
-- 💻 [Nature of Code L-System Chapter](https://nature-of-code-2nd-edition.netlify.app/fractals/#l-systems)
+- 💻 [Nature of Code L-System Chapter](https://natureofcode.com/fractals/#l-systems)
 - 🍿 [L-System Coding Challenge Video](https://thecodingtrain.com/challenges/16-l-system-fractal-trees)
 
 ## Reading
