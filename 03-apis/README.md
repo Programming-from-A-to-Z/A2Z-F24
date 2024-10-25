@@ -85,6 +85,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Wallis [Semantic Safari](https://wallismb.notion.site/week-3-APIs-and-Libraries-10c0d61d5577808fad82fd01d289ee65?pvs=4)
 - Sean [WizardWorld Search](https://hypnotic-jobaria-a8b.notion.site/W3-WizardWorld-Search-10ca2fdd2bbf80a5a88eff5421a654c4?pvs=4)
 - Michal [API call - Project Gutenberg](https://michals-blog-site.webflow.io/weeks/paz-week3)
+- Weber [GIF Gallery](https://weber-wong.notion.site/HW3-GIF-GALLERY-11301f6c24b580d1a44bf8dd1c6695d1?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

@@ -79,6 +79,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Sean - [TechJargon](https://hypnotic-jobaria-a8b.notion.site/W4-TechJargon-113a2fdd2bbf805abf67f5ee99bf3579?pvs=4)
 - Michal - [Comparing books of PINOCCHIO](https://michals-blog-site.webflow.io/weeks/pa2z4)
 - Wallis - [iMessage data](https://wallismb.notion.site/04-Word-Counting-10e0d61d557780498bfadeaeaf919c64?pvs=4)
+- Weber - [INFINITE MONKEY THEROEM](https://weber-wong.notion.site/HW-4-INFINITE-MONKEY-THEROEM-12801f6c24b580c1a87be7f29487f5e0?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
