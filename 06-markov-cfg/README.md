@@ -2,7 +2,7 @@
 
 ## [Markov and CFG slides](https://docs.google.com/presentation/d/1M8zwy7yKA7G6EzSYS8qnYRNuQ8KJkoo-M5YG6OM4vKk/edit?usp=sharing)
 
-## Weighted Selection
+## Weighted Selection / Sampling
 
 - 💻 [Weighted Selection p5.js example](https://editor.p5js.org/a2zitp/sketches/un8B-P4jg) (with temperature!)
 - 🚂 [Weighted Selection Algorithm video](https://youtu.be/ETphJASzYes)
