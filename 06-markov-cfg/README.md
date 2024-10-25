@@ -8,6 +8,7 @@
 - 🚨 [Markov Chain Coding Challenge](https://thecodingtrain.com/challenges/42-markov-chain-name-generator)
 - 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE), [quick note about `getURLParams()`](https://github.com/Programming-from-A-to-Z/A2Z-F23/wiki/Using-URL-Query-String)
 - 💻 [Markov Chain node.js example](https://github.com/Programming-from-A-to-Z/Markov-Node)
+- 💻 [Markov Chain Discord Bot example](https://github.com/Programming-from-A-to-Z/Markov-Discord-Bot)
 - 📚 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 📚 [2016 Markov Chains notes from A2Z](https://shiffman-archive.netlify.app/a2z/markov/)
 
@@ -55,7 +56,7 @@ These readings are background material to help you think about text data for the
 
 ## Assignment
 
-Try using markov chains or context free grammars. Feel free to pick just one or try both!
+Try using Markov Chains. Or Context Free Gramamars! Feel free to pick just one or try both!
 
 _(It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.)_
 
