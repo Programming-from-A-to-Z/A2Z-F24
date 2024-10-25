@@ -6,6 +6,7 @@
 
 - 💻 [Weighted Selection p5.js example](https://editor.p5js.org/a2zitp/sketches/un8B-P4jg) (with temperature!)
 - 🚂 [Weighted Selection Algorithm video](https://youtu.be/ETphJASzYes)
+- 📚 [Nature of Code Genetic Algorithm Section on Weighted Sampling](https://natureofcode.com/genetic-algorithms/#step-2-selection-1)
 - 📚 [How to Generate Text Hugging Face blog post](https://huggingface.co/blog/how-to-generate) (covers temperature, top_p, and top_k)
 
 ## Markov Chains
