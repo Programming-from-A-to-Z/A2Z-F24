@@ -54,12 +54,9 @@
 - 💻 [Nature of Code L-System Chapter](https://natureofcode.com/fractals/#l-systems)
 - 🍿 [L-System Coding Challenge Video](https://thecodingtrain.com/challenges/16-l-system-fractal-trees)
 
-## Reading
+## Additional Reading
 
-These readings are background material to help you think about text data for the upcoming weeks where I plan to move towards using ML models. These readings are from several years ago, but I believe the themes and questions raised are even more relevant today in the landscape of large language models.
-
-- 📕 [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020
-- 📕 [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP research fellows Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
+- [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020.
 
 ## Assignment
 
@@ -70,8 +67,6 @@ _(It is not required to write any new code for this assignment. You are welcome 
 ### Markov Chains
 
 Use one of the [existing examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE) to generate text with your own input data. Experiment with the "order" and "maximum" length variables. Try mixing multiple texts. Copy paste your favorite outputs from the browser and document in a blog post.
-
-Emily Martinez proposes a [series of questions to ask related to working with a corpus of text data](#emily-martinez-questions). Reflect on these questions and how they played into your process working with source texts in your documentation post.
 
 It is not required to write any new code for this assignment, however I'll include some ideas for further exploration below.
 
@@ -110,15 +105,3 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - 💻 Code examples here!
 - 📈 Class presentation slides
 - 🔗 Extra reference material / link
-
-## Emily Martinez Questions
-
-- How can we be more intentional about what we build given the current limitations, problems, and constraints of ML algorithms?
-- How do we prepare datasets and set up guidelines that protect the bodies of knowledge of our communities, that honors lineage, that upholds ethical frameworks rooted in shared, agreed-upon values?
-- How do we work in consensual and respectful ways with texts by marginalized authors that are not as well-represented, and by virtue of that fact alone, much more likely to be misrepresented, misappropriated, or misunderstood if we are not careful?
-- How well can we ensure that the essence of these texts doesn’t dissolve into a word-soup that gets misconstrued?
-- Given that so many of the existing “big data” language models are trained with Western texts and proprietary datasets, what does it even mean to try to decolonize AI?
-- Who do we entrust to do this work?
-- How do we deal with credit and attribution of our new creations?
-- How do we really do ethics with machine learning?
-- How do we get through this whole list of concerns and still build AI that is fun, respectful, tender, pleasurable, kind?
