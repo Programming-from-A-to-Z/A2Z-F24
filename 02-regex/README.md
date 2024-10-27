@@ -95,6 +95,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Iris --[Week2](https://bw0914.notion.site/programming-a2z-week2-homework-10375685ef9580c6bbe7d78965639c22?pvs=4)
 - Michal -- [a small adjustment](https://michals-blog-site.webflow.io/weeks/paz-week2)
 - Caroline -- [Finding Addresses](https://www.carolinenivetha.com/regex)
+- Weber -- [Flesch Regex](https://weber-wong.notion.site/HW2-10501f6c24b5800ab5f2e0c1c2ca6a4e?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

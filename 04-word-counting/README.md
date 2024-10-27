@@ -69,6 +69,17 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - Joyce - [Assignment 4 - 女](https://joycezheng.notion.site/Assignment-4-1104ee8df27e809aba9ad4751cedf4d4?pvs=4)
+- Cara - [word counting color intensity](https://www.notion.so/Week-4-111fc0e698e4800d8ce0c8aa64161b04)
+- Seun Elemo - [Learn Yoruba](https://fluff-saturnalia-4b2.notion.site/Assignment-4-Learn-Yoruba-1136783215b28044b01cdb84aafcddc1?pvs=4)
+- Lejing - [Japanese Noun Counter](https://lejingqiu.notion.site/Week-4-Word-Analysis-112ed6a177b080d8a4a7da471a85191c?pvs=4)
+- Iris - [Jieba](https://bw0914.notion.site/programming-a2z-week-4-homework-11275685ef958005b857e88bd044fb46?pvs=4)
+- Shun - [Word counter for chat (Chinese)](https://vagabond-taker-69c.notion.site/A2Z-F24-Week4-111f5cf5797a80ccb59ce5ba8309e2fc?pvs=4)
+- Zhiyang - [Word Count Tree](https://iszhiyang.com/atoz/site/week4/)
+- Lening - [Word Counting](https://repeated-cake-04e.notion.site/Week4-97d4d89e86494b748539e2f97bfd0db1?pvs=4)
+- Sean - [TechJargon](https://hypnotic-jobaria-a8b.notion.site/W4-TechJargon-113a2fdd2bbf805abf67f5ee99bf3579?pvs=4)
+- Michal - [Comparing books of PINOCCHIO](https://michals-blog-site.webflow.io/weeks/pa2z4)
+- Wallis - [iMessage data](https://wallismb.notion.site/04-Word-Counting-10e0d61d557780498bfadeaeaf919c64?pvs=4)
+- Weber - [INFINITE MONKEY THEROEM](https://weber-wong.notion.site/HW-4-INFINITE-MONKEY-THEROEM-12801f6c24b580c1a87be7f29487f5e0?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

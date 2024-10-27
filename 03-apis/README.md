@@ -75,6 +75,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Cara - [Data and APIs](https://pastoral-galliform-f42.notion.site/Week-3-9b973d71d7d643f692d2846efe6356ba?pvs=4)
 - Joyce - [Dog's Facts API](https://joycezheng.notion.site/Assignment3-fetch-API-10b4ee8df27e8062bf4ffb98e20c2bd0?pvs=4)
 - Lening -[Anime Musk](https://repeated-cake-04e.notion.site/Week3-4a0f93a64f9c4bc9865cc769d90bea64?pvs=4)
 - LovelyA72 - [Week 3](https://a2z.kmoene.com/p/474618-2418.html)
@@ -84,6 +85,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Wallis [Semantic Safari](https://wallismb.notion.site/week-3-APIs-and-Libraries-10c0d61d5577808fad82fd01d289ee65?pvs=4)
 - Sean [WizardWorld Search](https://hypnotic-jobaria-a8b.notion.site/W3-WizardWorld-Search-10ca2fdd2bbf80a5a88eff5421a654c4?pvs=4)
 - Michal [API call - Project Gutenberg](https://michals-blog-site.webflow.io/weeks/paz-week3)
+- Weber [GIF Gallery](https://weber-wong.notion.site/HW3-GIF-GALLERY-11301f6c24b580d1a44bf8dd1c6695d1?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
