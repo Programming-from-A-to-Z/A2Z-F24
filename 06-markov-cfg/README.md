@@ -96,6 +96,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - LovelyA72 - [AMLT Markov Port](https://a2z.kmoene.com/p/213741-2219.html)
 - Joyce - [Rejection letter generator](https://joycezheng.notion.site/Assignment-07-Markov-change-12c4ee8df27e805d8589cdb05fd99a6c?pvs=4)
 - Cara - [WeChat Post Text](https://pastoral-galliform-f42.notion.site/Week-7-12dfc0e698e4804fa0f6e0716afa81f3)
+- Muqing - [Love poem](https://zesty-femur-715.notion.site/Week-8-Love-poem-Markov-Chain-12dd0a2f0b458030b913f69ac237eee3?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
