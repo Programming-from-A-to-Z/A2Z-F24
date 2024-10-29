@@ -53,7 +53,6 @@
 - 🎨 [Hello World p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
 - ⌨️ [Streaming results from Replicate model to p5.js](https://github.com/Programming-from-A-to-Z/Replicate-p5js-stream)
 - 💬 [ChatBot Conversations with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate)
-- 💻 [Misc Models via Replicate](https://github.com/Programming-from-A-to-Z/Replicate-Examples)
 
 ### Fine-tuning with Replicate
 
