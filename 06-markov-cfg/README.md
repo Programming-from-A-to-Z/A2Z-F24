@@ -96,7 +96,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - LovelyA72 - [AMLT Markov Port](https://a2z.kmoene.com/p/213741-2219.html)
 - Joyce - [Rejection letter generator](https://joycezheng.notion.site/Assignment-07-Markov-change-12c4ee8df27e805d8589cdb05fd99a6c?pvs=4)
 - Cara - [WeChat Post Text](https://pastoral-galliform-f42.notion.site/Week-7-12dfc0e698e4804fa0f6e0716afa81f3)
-
+- Lening [QQQS Photography_Prompts](https://repeated-cake-04e.notion.site/Week8-5cad9cae671c4f0cbfdcd73c1a1ea1c6?pvs=4)
+- 
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
