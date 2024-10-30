@@ -2,18 +2,27 @@
 
 ## [Markov and CFG slides](https://docs.google.com/presentation/d/1M8zwy7yKA7G6EzSYS8qnYRNuQ8KJkoo-M5YG6OM4vKk/edit?usp=sharing)
 
+## Weighted Selection / Sampling
+
+- 💻 [Weighted Selection p5.js example](https://editor.p5js.org/a2zitp/sketches/un8B-P4jg) (with temperature!)
+- 🚂 [Weighted Selection Algorithm video](https://youtu.be/ETphJASzYes)
+- 📚 [Nature of Code Genetic Algorithm Section on Weighted Sampling](https://natureofcode.com/genetic-algorithms/#step-2-selection-1)
+- 📚 [How to Generate Text Hugging Face blog post](https://huggingface.co/blog/how-to-generate) (covers temperature, top_p, and top_k)
+
 ## Markov Chains
 
 - 📕 [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/) by Victor Powell and Lewis Lehe
 - 🚨 [Markov Chain Coding Challenge](https://thecodingtrain.com/challenges/42-markov-chain-name-generator)
 - 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE), [quick note about `getURLParams()`](https://github.com/Programming-from-A-to-Z/A2Z-F23/wiki/Using-URL-Query-String)
 - 💻 [Markov Chain node.js example](https://github.com/Programming-from-A-to-Z/Markov-Node)
+- 💻 [Markov Chain Discord Bot example](https://github.com/Programming-from-A-to-Z/Markov-Discord-Bot)
 - 📚 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 📚 [2016 Markov Chains notes from A2Z](https://shiffman-archive.netlify.app/a2z/markov/)
 
 ### Markov Project References
 
 - 🎨 [ITP Course Generator by Allison Parrish](http://static.decontextualize.com/toys/next_semester)
+- 🎨 [Markov Visualizer](https://x.com/tylerangert/status/1385677572185407489) by Tyler Angert
 - 🎨 [WebTrigrams by Chris Harrison](http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams)
 - 📈 [Google N-Gram Viewer](https://books.google.com/ngrams), [google blog post about n-grams](http://googleresearch.blogspot.com/2006/08/all-our-n-gram-are-belong-to-you.html)
 - 🎨 [King James Programming](http://kingjamesprogramming.tumblr.com/)
@@ -42,19 +51,16 @@
 ## CFG Visual Art
 
 - 📚 [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
-- 💻 [Nature of Code L-System Chapter](https://nature-of-code-2nd-edition.netlify.app/fractals/#l-systems)
+- 💻 [Nature of Code L-System Chapter](https://natureofcode.com/fractals/#l-systems)
 - 🍿 [L-System Coding Challenge Video](https://thecodingtrain.com/challenges/16-l-system-fractal-trees)
 
-## Reading
+## Additional Reading
 
-These readings are background material to help you think about text data for the upcoming weeks where I plan to move towards using ML models. These readings are from several years ago, but I believe the themes and questions raised are even more relevant today in the landscape of large language models.
-
-- 📕 [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020
-- 📕 [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP research fellows Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
+- [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020.
 
 ## Assignment
 
-Try using markov chains or context free grammars. Feel free to pick just one or try both!
+Try using Markov Chains. Or Context Free Gramamars! Feel free to pick just one or try both!
 
 _(It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.)_
 
@@ -62,14 +68,12 @@ _(It is not required to write any new code for this assignment. You are welcome 
 
 Use one of the [existing examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE) to generate text with your own input data. Experiment with the "order" and "maximum" length variables. Try mixing multiple texts. Copy paste your favorite outputs from the browser and document in a blog post.
 
-Emily Martinez proposes a [series of questions to ask related to working with a corpus of text data](#emily-martinez-questions). Reflect on these questions and how they played into your process working with source texts in your documentation post.
-
 It is not required to write any new code for this assignment, however I'll include some ideas for further exploration below.
 
 - Design a webpage that displays the output of a markov generator a la [Allison Parrish's ITP course creator](http://static.decontextualize.com/toys/next_semester).
 - Create a bot that generates its output based on a markov chain.
 - Use a markov chain on something other than text. Record your own sequence of daily habits. Try musical notes. Could colors or shapes be generated with a markov chain? What else? You can find examples for [musical markov chains](https://luisaph.github.io/the-code-of-music-2018/#Markov) from Luisa Pereira's [Code of Music materials](https://luisaph.github.io/the-code-of-music-2018/).
-- Thinking back to [the word counting material](https://github.com/shiffman/A2Z-F23/tree/main/04-word-counting), visualoze n-gram frequencies and/or markov probabilities.
+- Thinking back to [the word counting material](https://github.com/shiffman/A2Z-F23/tree/main/04-word-counting), visualize n-gram frequencies and/or markov probabilities.
 
 ### Context-Free Grammars
 
@@ -89,7 +93,11 @@ Something you might consider is pulling the "terminal" words for your grammar fr
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
-
+- LovelyA72 - [AMLT Markov Port](https://a2z.kmoene.com/p/213741-2219.html)
+- Joyce - [Rejection letter generator](https://joycezheng.notion.site/Assignment-07-Markov-change-12c4ee8df27e805d8589cdb05fd99a6c?pvs=4)
+- Cara - [WeChat Post Text](https://pastoral-galliform-f42.notion.site/Week-7-12dfc0e698e4804fa0f6e0716afa81f3)
+- Lening [QQQS Photography_Prompts](https://repeated-cake-04e.notion.site/Week8-5cad9cae671c4f0cbfdcd73c1a1ea1c6?pvs=4)
+- 
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
@@ -100,15 +108,3 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - 💻 Code examples here!
 - 📈 Class presentation slides
 - 🔗 Extra reference material / link
-
-## Emily Martinez Questions
-
-- How can we be more intentional about what we build given the current limitations, problems, and constraints of ML algorithms?
-- How do we prepare datasets and set up guidelines that protect the bodies of knowledge of our communities, that honors lineage, that upholds ethical frameworks rooted in shared, agreed-upon values?
-- How do we work in consensual and respectful ways with texts by marginalized authors that are not as well-represented, and by virtue of that fact alone, much more likely to be misrepresented, misappropriated, or misunderstood if we are not careful?
-- How well can we ensure that the essence of these texts doesn’t dissolve into a word-soup that gets misconstrued?
-- Given that so many of the existing “big data” language models are trained with Western texts and proprietary datasets, what does it even mean to try to decolonize AI?
-- Who do we entrust to do this work?
-- How do we deal with credit and attribution of our new creations?
-- How do we really do ethics with machine learning?
-- How do we get through this whole list of concerns and still build AI that is fun, respectful, tender, pleasurable, kind?

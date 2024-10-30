@@ -76,8 +76,9 @@ In preparation for next week, add a link to a data source or API (even just data
 - Lejing -- [wordsapi](https://www.wordsapi.com/docs/)
 - Michal -- [Books API](https://openlibrary.org/developers/api)
 - Lening --[The LaMa (Large Mask Inpainting)](https://replicate.com/zylim0702/remove-object?prediction=g20ykx9m6srgp0cf5e9ap3pygm)
+- Caroline -- [A Benchmark Dataset for Learning to Intervene in Online Hate Speech https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech]
+- Zhiyang [Free Dictionary](https://dictionaryapi.dev/)
 
- 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
@@ -95,6 +96,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lejing -- [regex](https://lejingqiu.notion.site/week-2-Regex-105ed6a177b0802d8d19d244a3007739?pvs=4)
 - Iris --[Week2](https://bw0914.notion.site/programming-a2z-week2-homework-10375685ef9580c6bbe7d78965639c22?pvs=4)
 - Michal -- [a small adjustment](https://michals-blog-site.webflow.io/weeks/paz-week2)
+- Caroline -- [Finding Addresses](https://www.carolinenivetha.com/regex)
+- Weber -- [Flesch Regex](https://weber-wong.notion.site/HW2-10501f6c24b5800ab5f2e0c1c2ca6a4e?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
