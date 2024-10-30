@@ -99,6 +99,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Muqing - [Love poem](https://zesty-femur-715.notion.site/Week-8-Love-poem-Markov-Chain-12dd0a2f0b458030b913f69ac237eee3?pvs=4)
 - Lening [QQQS Photography_Prompts](https://repeated-cake-04e.notion.site/Week8-5cad9cae671c4f0cbfdcd73c1a1ea1c6?pvs=4)
 - Michal [Markov - L](https://michals-blog-site.webflow.io/weeks/a2z-week07)
+- Wallis [Markov "Art terms"](https://wallismb.notion.site/06-Markov-Chains-Art-terms-1-12f0d61d557780688d1beb295b22f068?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
