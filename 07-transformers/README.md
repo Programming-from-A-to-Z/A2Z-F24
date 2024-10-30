@@ -1,6 +1,6 @@
 # Language Models
 
-- [LLM / transformer slides](https://docs.google.com/presentation/d/1I3uq2EY8Kgl_NIPJ2PxOvxhQvsU-QXaph7QRilnzLCg/edit?usp=sharing)
+- [LLM / transformer slides](https://docs.google.com/presentation/d/1uGS4w_UumzQAoq03S-sc9Nn7_hBaRNbQJf1G2SNXooU/edit?usp=sharing)
 
 ## Sequential Data and Recurrent Neural Networks
 
@@ -17,6 +17,7 @@
 - 📚 [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Original "Transformer" paper from 2017, also [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) -- Attention paper from 2014
 - 📚 [What Are Transformer Models and How Do They Work?](https://docs.cohere.com/docs/transformer-models)
 - 🎥 [How large language models work, a visual intro to transformers](https://youtu.be/wjZofJX0v4M) by 3Blue1Brown
+- 🎥 [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy and [Intro to LLMs slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
 - 📖 [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish
 
 ## LLM Training
@@ -48,30 +49,37 @@
 
 - 💻 [Hello World node.js + express + p5 example](https://github.com/Programming-from-A-to-Z/Simple-Express-p5.js)
 
-### Replcate Examples
+### Code Examples and Implementations
+
+#### Replicate
 
 - 🎨 [Hello World p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
 - ⌨️ [Streaming results from Replicate model to p5.js](https://github.com/Programming-from-A-to-Z/Replicate-p5js-stream)
-- 💬 [ChatBot Conversations with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate)
+- 💬 [ChatBot Conversations with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate). This follows the specification in the [Llama 3 Model Card](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-3/).
 
-### Fine-tuning with Replicate
+#### Ollama
 
-- [Official Replicate Documentation](https://replicate.com/docs/guides/fine-tune-a-language-model)
-- [Repo with Instructions and Code Example for fine-tuning](https://github.com/Programming-from-A-to-Z/Replicate-Fine-Tuning)
+- 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
+- 💻 [Ollama with JavaScript](https://github.com/Programming-from-A-to-Z/Ollama-Examples)
 
-### Other Resources and Examples
+#### Transformers.js
+
+- [Transformers.js LLM examples](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
+- [WebAI Summit Transformers.js Slides](https://docs.google.com/presentation/d/1FTKmN9ZWyrBjQyp6-osPyvLzKiXqjqCSZvb0-FIqme0/edit?usp=sharing) - Thank you @xenova!
+- 📚 [Transformers.js Documentation](https://huggingface.co/docs/transformers.js/)
+- 📰 [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3)
+
+#### OpenAI
 
 - 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
-- 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
 
 ## Assignment
 
-- Read [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922) and review the [The Foundation Model Transparency Index](https://hai.stanford.edu/news/introducing-foundation-model-transparency-index). What questions arise for you about using LLMs in your work at ITP?
-- Experiment with prompting a large language model in some way other than a provided interface (e.g. ChatGPT) and document the results in a blog post. Consider how working with an LLM compares to generating text from the previous exercise working with markov chains and context free grammars. Here are some options:
-  - Run the [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate) example or [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone) and adjust the prompts, interaction, or visual design of the examples. There is also a new [simpler Replicate + p5.js example](https://github.com/Programming-from-A-to-Z/Replicate-p5js) you can try.
+- Read [Language models can only write ransom notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish and review the [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/May-2024/index.html). What questions arise for you about using LLMs in your work at ITP?
+- Experiment with prompting a large language model in some way other than a provided interface (e.g. ChatGPT) and document the results in a blog post. Consider how working with an LLM compares to generating text from the other methods including but not limited to markov chains and context free grammars. Here are some options:
+  - Run [any of the code examples above](#code-examples-and-implementations) Try adjusting the prompts, interaction, or visual design.
   - Sign up for the [OpenAI API](https://openai.com/blog/openai-api) and [try creating a "custom assistant" with a system prompt and knowledge base](https://platform.openai.com/assistants).
-  - If you have [the GPT Editor](https://chat.openai.com/gpts/editor) enabled in your OpenAI account, try making a custom chatbot.
-  - Try running Llama locally with [Ollama](https://ollama.ai/)
+  - Try running Llama locally with [Ollama](https://ollama.ai/). Compare and contrast different models.
   - Can you connect an LLM to a Discord Bot!?!
   - Invent your own idea!
 
