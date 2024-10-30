@@ -38,38 +38,35 @@
 - 🌏 [The Internet’s Next Great Power Suck](https://www.theatlantic.com/technology/archive/2023/08/ai-carbon-emissions-data-centers/675094/)
 - ⚡️ [Carbon Emissions and Large Neural Network Training ](https://arxiv.org/ftp/arxiv/papers/2104/2104.10350.pdf)
 
-## Node.js with p5.js + Replicate
+## Web Servers with Node.js + p5.js
 
 - 🎥 [Workflow: Terminal, Shell, Node.js, VSCode](https://thecodingtrain.com/tracks/discord-bots/discord/2023-workflow)
 - 🎥 [How to Set Up a Node.js Project](https://thecodingtrain.com/tracks/discord-bots/discord/setup-node-project)
 - 🎥 [Server Side / Express with node.js](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/1-server-side-with-node-js)
 - 🎥 [HTTP "POST" request with fetch](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/3-http-post-request)
-
-### Node.js + p5.js Template
-
 - 💻 [Hello World node.js + express + p5 example](https://github.com/Programming-from-A-to-Z/Simple-Express-p5.js)
 
-### Code Examples and Implementations
+## Code Examples and Implementations
 
-#### Replicate
+### Replicate
 
 - 🎨 [Hello World p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
 - ⌨️ [Streaming results from Replicate model to p5.js](https://github.com/Programming-from-A-to-Z/Replicate-p5js-stream)
 - 💬 [ChatBot Conversations with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate). This follows the specification in the [Llama 3 Model Card](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-3/).
 
-#### Ollama
+### Ollama
 
 - 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
 - 💻 [Ollama with JavaScript](https://github.com/Programming-from-A-to-Z/Ollama-Examples)
 
-#### Transformers.js
+### Transformers.js
 
 - [Transformers.js LLM examples](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
 - [WebAI Summit Transformers.js Slides](https://docs.google.com/presentation/d/1FTKmN9ZWyrBjQyp6-osPyvLzKiXqjqCSZvb0-FIqme0/edit?usp=sharing) - Thank you @xenova!
 - 📚 [Transformers.js Documentation](https://huggingface.co/docs/transformers.js/)
 - 📰 [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3)
 
-#### OpenAI
+### OpenAI
 
 - 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
 
