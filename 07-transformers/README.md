@@ -61,7 +61,9 @@
 
 ### Transformers.js
 
-- [Transformers.js LLM examples](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
+- 💻 [Transformers.js LLM examples](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
+  - 🌸 [Chatbot with Conversation History: p5.js web editor](https://editor.p5js.org/ima_ml/sketches/oGE7UEmwh)
+  - 🌸 [Text Completion: p5.js web editor](https://editor.p5js.org/ima_ml/sketches/e9PFp5BkJ)
 - [WebAI Summit Transformers.js Slides](https://docs.google.com/presentation/d/1FTKmN9ZWyrBjQyp6-osPyvLzKiXqjqCSZvb0-FIqme0/edit?usp=sharing) - Thank you @xenova!
 - 📚 [Transformers.js Documentation](https://huggingface.co/docs/transformers.js/)
 - 📰 [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3)
