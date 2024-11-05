@@ -84,8 +84,8 @@
 
 ## Add your assignment below via Pull Request
 
-- Joyce [Local Ollama try-out](https://joycezheng.notion.site/Assignment-08-Ollama-local-model-1314ee8df27e80269caed220406b33e6?pvs=4)
-
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+
+- Joyce [Local Ollama try-out](https://joycezheng.notion.site/Assignment-08-Ollama-local-model-1314ee8df27e80269caed220406b33e6?pvs=4)
 - Michal [lora-trainer](https://michals-blog-site.webflow.io/weeks/a2z-week8)
 
