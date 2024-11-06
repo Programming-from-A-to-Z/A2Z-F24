@@ -88,5 +88,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Joyce [Local Ollama try-out](https://joycezheng.notion.site/Assignment-08-Ollama-local-model-1314ee8df27e80269caed220406b33e6?pvs=4)
 - Michal [lora-trainer](https://michals-blog-site.webflow.io/weeks/a2z-week8)
-- Caroline [Rethinking Hate Comments] (https://www.carolinenivetha.com/llm)
+- Caroline [Rethinking Hate Comments](https://www.carolinenivetha.com/llm)
 
