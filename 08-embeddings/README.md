@@ -26,12 +26,12 @@
 
 ## Code Examples with Replicate
 
-- 💻 [Making your own Embeddings "Database"](https://github.com/Programming-from-A-to-Z/Save-Embeddings-Replicate), uses [bge-large-en-v1.5](https://replicate.com/nateraw/bge-large-en-v1.5)
+- 💻 [Making your own Embeddings "Database"](https://github.com/Programming-from-A-to-Z/Save-Embeddings-JSON), uses [all-mpnet-base-v2](https://replicate.com/replicate/all-mpnet-base-v2) and [mixedbread-ai/mxbai-embed-large-v1](https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1)
 - 💻 [Retrieval Augmented Generation (RAG) with p5.js + Replicate](https://github.com/Programming-from-A-to-Z/Example-RAG-Replicate)
 
 ## On device, in browser embeddings (no node.js required!!)
 
-- 💻 [Embeddings with Transformers.js](https://github.com/Programming-from-A-to-Z/transformers-js-examples), uses [Xenova/all-MiniLM-L6-v2](https://huggingface.co/Xenova/all-MiniLM-L6-v2)
+- 💻 [Embeddings with Transformers.js](https://github.com/Programming-from-A-to-Z/transformers-js-examples/tree/main/embeddings)
 
 ## Clustering with UMAP dimensionality reduction
 
@@ -40,8 +40,7 @@
 - UMAP p5.js examples
   - [Simple clustering 3D colors -> 2D](https://editor.p5js.org/a2zitp/sketches/ZaehMFonQ)
   - [Simple clustering random data, adjusting umap parameters](https://editor.p5js.org/a2zitp/sketches/ANn4gUQfP)
-  - [Animating UMAP process with larger color dataset](https://editor.p5js.org/a2zitp/sketches/ANn4gUQfP)
-  - [Clustering sentence embeddings from a database!]()
+  - [Animated UMAP process + Clustering sentence embeddings from a database!](https://editor.p5js.org/a2zitp/sketches/p63QTp0Sd)
 
 ## Assignment
 
