@@ -2,7 +2,27 @@
 
 ## Schedule and Documentation Links:
 
-### TBD
+### Wednesday, Nov 13
+
+- Lening -
+- Joyce -
+- LovelyA72 -
+- Cara -
+- Sean -
+- Michal -
+- Zhiyang -
+- Caroline -
+- Lejing -
+
+### Wednesday, Nov 20
+
+- Shun -
+- Muqing -
+- Wallis -
+- Seun -
+- Weber -
+- Jackie -
+- Iris -
 
 ## Proposal Feedback TLDR:
 
