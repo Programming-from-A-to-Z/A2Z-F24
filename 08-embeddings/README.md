@@ -5,6 +5,7 @@
 - 📝 [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 - 🚂 [What is word2vec](https://youtu.be/LSS_bos_TPI), 🚂 [Color Vectors](https://youtu.be/mI23bDF0VRI)
 - 📚 [2013 paper Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+- 🔢 [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 - 📚 [2018 Universal Sentence Encoder paper](https://arxiv.org/abs/1803.11175)
 
 ## Embeddings
@@ -25,13 +26,11 @@
 
 - 📚 [How to use retrieval augmented generation](https://replicate.com/blog/how-to-use-rag-with-chromadb-and-mistral-7b-instruct)
 
-## Code Examples with Replicate
+## Code Examples with Replicate + Transformers.js
 
-- 💻 [Making your own Embeddings "Database"](https://github.com/Programming-from-A-to-Z/Save-Embeddings-JSON), uses [all-mpnet-base-v2](https://replicate.com/replicate/all-mpnet-base-v2) and [mixedbread-ai/mxbai-embed-large-v1](https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1)
+- 🔢 [All embeddings models on Replicate](https://replicate.com/collections/embedding-models), [All embeddings models for transformers.js](https://huggingface.co/models?pipeline_tag=feature-extraction&library=transformers.js&sort=trending)
+- 💻 [Making your own Embeddings "Database"](https://github.com/Programming-from-A-to-Z/Save-Embeddings-JSON), uses [all-mpnet-base-v2](https://replicate.com/replicate/all-mpnet-base-v2) on Replicate and [mixedbread-ai/mxbai-embed-large-v1](https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1) with transformers.js
 - 💻 [Retrieval Augmented Generation (RAG) with p5.js + Replicate](https://github.com/Programming-from-A-to-Z/Example-RAG-Replicate)
-
-## On device, in browser embeddings (no node.js required!!)
-
 - 💻 [Embeddings with Transformers.js](https://github.com/Programming-from-A-to-Z/transformers-js-examples/tree/main/embeddings)
 
 ## Clustering with UMAP dimensionality reduction
