@@ -103,6 +103,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lejing [Dream Markov](https://lejingqiu.notion.site/Week-8-Markov-Chain-12fed6a177b080a297e6eb90fd36b4bd?pvs=4)
 - Seun - [Breakup Message](https://fluff-saturnalia-4b2.notion.site/Assignment-6-Break-up-Markov-Chains-12f6783215b2804eb729ca49bb4ef163?pvs=4)
 - Weber - [Kanye-Shakespeare](https://weber-wong.notion.site/HW6-Markov-Chains-12f01f6c24b5808c805ff83aa84c09bc?pvs=4)
+- Caroline - [Thirukkural & The Hunger Games](https://www.carolinenivetha.com/markov)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
