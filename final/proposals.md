@@ -9,8 +9,7 @@
 - LovelyA72 -
 - Cara -
 - Sean -
-- Michal -
-- Zhiyang -
+- Michal, Wallis -
 - Caroline -
 - Lejing -
 
@@ -18,7 +17,7 @@
 
 - Shun -
 - Muqing -
-- Wallis -
+- Zhiyang -
 - Seun -
 - Weber -
 - Jackie -
