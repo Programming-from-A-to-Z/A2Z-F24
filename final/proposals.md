@@ -7,7 +7,7 @@
 - Lening -
 - Joyce -
 - LovelyA72 -
-- Cara -
+- Cara - [FinalIdea](https://www.notion.so/Final-proposal-13bfc0e698e480e89e9dfcc1f1be0a44)
 - Sean -
 - Michal, Wallis -
 - Caroline -
