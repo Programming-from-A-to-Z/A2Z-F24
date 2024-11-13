@@ -1,6 +1,7 @@
 # Final Project Proposals
 
 ## Schedule and Documentation Links:
+- Cara[Final Idea](https://pastoral-galliform-f42.notion.site/Final-proposal-13bfc0e698e480e89e9dfcc1f1be0a44?pvs=4)
 
 ### TBD
 
