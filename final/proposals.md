@@ -18,8 +18,8 @@
 - Shun -
 - Muqing -
 - Zhiyang -
+- Weber - [microFAUNA](https://weber-wong.notion.site/Final-Project-microFAUNA-14401f6c24b580bab75cfc33bbe208a0?pvs=4)
 - Seun - [Proposal Idea](https://docs.google.com/presentation/d/1LVLoCoD9h8W47YOI1d-uVYpUI8tzWUPvxMKnxr5VMxc/edit#slide=id.g316a600740a_0_28)
-- Weber -
 - Jackie -
 - Iris -
 
