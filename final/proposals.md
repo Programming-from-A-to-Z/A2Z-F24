@@ -7,10 +7,9 @@
 - Lening -
 - Joyce -
 - LovelyA72 -
-- Cara -
+- Cara - [FinalIdea](https://www.notion.so/Final-proposal-13bfc0e698e480e89e9dfcc1f1be0a44)
 - Sean -
-- Michal -
-- Zhiyang -
+- Michal, Wallis ["Common Sense" proposal](https://docs.google.com/presentation/d/1iPYcy6SguqY_yLsdOMj4l6lnr65o6BKuOZVGDZxWv-Q/edit#slide=id.p)
 - Caroline -
 - Lejing -
 
@@ -18,7 +17,7 @@
 
 - Shun -
 - Muqing -
-- Wallis -
+- Zhiyang -
 - Seun -
 - Weber -
 - Jackie -
@@ -29,7 +28,7 @@
 1. Is the idea clear? Is there a clearly stated goal? What do you understand / not understand?
 2. What about scope? Can it be done in such a short period of time under current circumstances?
 3. Suggestions for relevant tutorials, reference projects, or other resources?
-4. Are there ways this project can be "remote" user tested? What questions would you want to ask?
+4. What is a strategy for "play testing" in class on Nov 27?
 
 ## Proposal Guidelines
 

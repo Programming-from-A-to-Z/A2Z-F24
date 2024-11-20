@@ -17,9 +17,9 @@
 - 📚 [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 - 📚 [Using open-source models for faster and cheaper text embeddings](https://replicate.com/blog/run-bge-embedding-models)
 
-## Similarity
+## Semantic Search and "Similarity"
 
-- 📚 [Similarity between words and sentences](https://docs.cohere.com/docs/similarity-between-words-and-sentences)
+- 📚 [What is Semantic Search?](https://cohere.com/llmu/what-is-semantic-search)
 - 🎥 [Cosine Similarity](https://youtu.be/e9U0QAFbfLI) from StatQuest
 
 ## Retrieval Augmented Generation (RAG)
