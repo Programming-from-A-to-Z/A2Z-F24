@@ -18,7 +18,7 @@
 - Shun -
 - Muqing -
 - Zhiyang -
-- Seun -
+- Seun - [Proposal Idea] (https://docs.google.com/presentation/d/1LVLoCoD9h8W47YOI1d-uVYpUI8tzWUPvxMKnxr5VMxc/edit#slide=id.g316a600740a_0_28)
 - Weber -
 - Jackie -
 - Iris -
