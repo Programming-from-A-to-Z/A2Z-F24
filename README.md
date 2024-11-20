@@ -24,9 +24,9 @@
 
 ### Week 10 - [ML: Embeddings](08-embeddings), Nov 6
 
-### Week 11 - [Final Project Proposals](final), Nov 13
+### Week 11 - [Final Project Proposals](final) + [additional](09-additional), Nov 13
 
-### Week 12 - [Final Project Proposals](final), Nov 20
+### Week 12 - [Final Project Proposals](final) + [additional](09-additional), Nov 20
 
 ### Week 13 - [Final Project in Progress](final), Nov 27
 
