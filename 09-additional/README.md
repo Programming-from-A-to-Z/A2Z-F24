@@ -2,6 +2,9 @@
 
 ## Fine-Tuning
 
+- [What is fine-tuning](https://www.ibm.com/topics/fine-tuning)
+- [What is Low-Rank Adaptation (LoRA) | Explained by the Inventor](https://www.youtube.com/watch?v=DhRoTONcyZE)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685)
 - [Fine-tune a pretrained model](https://huggingface.co/docs/transformers/en/training) by Hugging Face
 - [AutoTrain on Hugging Face](https://huggingface.co/autotrain)
 - [Unsloth Colab Notebooks](https://unsloth.ai/)
