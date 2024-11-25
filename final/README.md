@@ -13,7 +13,7 @@ Other notes:
 
 ## Final Proposals
 
-- [proposal presentation schedule and guidlines](proposals.md)
+- [proposal presentation schedule and guidelines](proposals.md)
 
 ## Project Development and Testing
 
