@@ -23,15 +23,19 @@ This can mean something different for different projects. For an interactive web
 
 If you are not sure how to design your testing, e-mail me and we'll discuss.
 
-### Group A Presenters: TBD
+### Wednesday, Nov 27
 
-- TBD
+12:10 👋 Hello
 
-### Group B Presenters: TBD
+### Group A Presenters: 12:15 - 1:15
 
-- TBD
+- Lening, Joyce, LovelyA72, Cara, Michal, Wallis, Caroline
 
-### TBD
+### Group B Presenters: 1:30 - 2:30
+
+- Shun, Muqing, Zhiyang, Seun, Jackie, Iris, Lejing
+
+### 2:30
 
 - Course evaluations
 
