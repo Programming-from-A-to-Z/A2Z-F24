@@ -29,11 +29,11 @@ If you're unsure how to design your testing process, feel free to email me, and 
 
 ### Group A Presenters: 12:15 - 1:15
 
-- Lening, Joyce, LovelyA72, Cara, Michal, Wallis, Caroline
+- Lening, Joyce, LovelyA72, Cara, Michal, Wallis, Iris
 
 ### Group B Presenters: 1:30 - 2:30
 
-- Shun, Muqing, Zhiyang, Seun, Jackie, Iris, Lejing
+- Shun, Muqing, Seun, Jackie, Lejing, Caroline
 
 ### 2:30
 
