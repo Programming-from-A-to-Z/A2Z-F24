@@ -7,7 +7,7 @@
 - Joyce -
 - Zhiyang -
 - Michal, Wallis -
-- Seun -
+- Seun - [Final Project Documentation](https://fluff-saturnalia-4b2.notion.site/Final-project-1526783215b2807c87d8d84c5f3fd067?pvs=4)
 - Cara -
 - Caroline -
 - BREAK
