@@ -8,7 +8,7 @@
 - Zhiyang -
 - Michal, Wallis -
 - Seun - [Final Project Documentation](https://fluff-saturnalia-4b2.notion.site/Final-project-1526783215b2807c87d8d84c5f3fd067?pvs=4)
-- Cara -
+- Cara - [Final Project Documentation](https://www.notion.so/Final-Documentation-13efc0e698e480c8b776ddc59f64e15e)
 - Caroline -
 - BREAK
 - Muqing -
