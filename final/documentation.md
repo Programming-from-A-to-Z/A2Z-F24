@@ -3,7 +3,7 @@
 ## Schedule and Documentation Links:
 
 - Welcome! 👋
-- Muqing -
+- Sean -
 - Joyce -
 - Zhiyang -
 - Michal, Wallis -
@@ -11,11 +11,11 @@
 - Cara -
 - Caroline -
 - BREAK
+- Muqing -
 - LovelyA72 -
 - Jackie -
 - Lening -
 - Iris -
-- Sean -
 - Lejing -
 - Shun -
 - Thank you! 💜
