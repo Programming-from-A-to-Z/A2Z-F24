@@ -4,7 +4,7 @@
 
 ### Wednesday, Nov 13
 
-- Lening -
+- Lening - [Idea of form](https://repeated-cake-04e.notion.site/Idea-of-Form-fd7de42822ac4e0eac59ed38fa89434b?pvs=4)
 - Joyce -
 - LovelyA72 -
 - Cara - [FinalIdea](https://www.notion.so/Final-proposal-13bfc0e698e480e89e9dfcc1f1be0a44)
