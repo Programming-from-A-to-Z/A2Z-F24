@@ -4,7 +4,7 @@
 
 - Welcome! 👋
 - Sean -
-- Joyce -
+- Joyce - [Meditative Dandelion](https://www.notion.so/joycezheng/Meditative-Dandelion-Project-Documentation-1544ee8df27e80169a78c865f7219336?pvs=4)
 - Zhiyang -
 - Michal, Wallis -
 - Seun - [Sentiment Analyzer](https://fluff-saturnalia-4b2.notion.site/Final-project-1526783215b2807c87d8d84c5f3fd067?pvs=4)
@@ -19,7 +19,6 @@
 - Lejing -
 - Shun -
 - Thank you! 💜
-
 
 ## Guidelines
 
