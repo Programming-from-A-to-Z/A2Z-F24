@@ -2,14 +2,33 @@
 
 ## Schedule and Documentation Links:
 
-### TBD
+### Wednesday, Nov 13
+
+- Lening - [Idea of form](https://repeated-cake-04e.notion.site/Idea-of-Form-fd7de42822ac4e0eac59ed38fa89434b?pvs=4)
+- Joyce -
+- LovelyA72 -
+- Cara - [FinalIdea](https://www.notion.so/Final-proposal-13bfc0e698e480e89e9dfcc1f1be0a44)
+- Sean -
+- Michal, Wallis ["Common Sense" proposal](https://docs.google.com/presentation/d/1iPYcy6SguqY_yLsdOMj4l6lnr65o6BKuOZVGDZxWv-Q/edit#slide=id.p)
+- Caroline -
+- Lejing -
+
+### Wednesday, Nov 20
+
+- Shun -
+- Muqing -
+- Zhiyang -
+- Weber - [microFAUNA](https://weber-wong.notion.site/Final-Project-microFAUNA-14401f6c24b580bab75cfc33bbe208a0?pvs=4)
+- Seun - [Proposal Idea](https://docs.google.com/presentation/d/1LVLoCoD9h8W47YOI1d-uVYpUI8tzWUPvxMKnxr5VMxc/edit#slide=id.g316a600740a_0_28)
+- Jackie -
+- Iris -
 
 ## Proposal Feedback TLDR:
 
 1. Is the idea clear? Is there a clearly stated goal? What do you understand / not understand?
 2. What about scope? Can it be done in such a short period of time under current circumstances?
 3. Suggestions for relevant tutorials, reference projects, or other resources?
-4. Are there ways this project can be "remote" user tested? What questions would you want to ask?
+4. What is a strategy for "play testing" in class on Nov 27?
 
 ## Proposal Guidelines
 

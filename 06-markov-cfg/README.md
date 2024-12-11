@@ -99,9 +99,11 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Muqing - [Love poem](https://zesty-femur-715.notion.site/Week-8-Love-poem-Markov-Chain-12dd0a2f0b458030b913f69ac237eee3?pvs=4)
 - Lening [QQQS Photography_Prompts](https://repeated-cake-04e.notion.site/Week8-5cad9cae671c4f0cbfdcd73c1a1ea1c6?pvs=4)
 - Michal [Markov - L](https://michals-blog-site.webflow.io/weeks/a2z-week07)
+- Wallis [Markov "Art terms"](https://wallismb.notion.site/06-Markov-Chains-Art-terms-1-12f0d61d557780688d1beb295b22f068?pvs=4)
 - Lejing [Dream Markov](https://lejingqiu.notion.site/Week-8-Markov-Chain-12fed6a177b080a297e6eb90fd36b4bd?pvs=4)
 - Seun - [Breakup Message](https://fluff-saturnalia-4b2.notion.site/Assignment-6-Break-up-Markov-Chains-12f6783215b2804eb729ca49bb4ef163?pvs=4)
 - Weber - [Kanye-Shakespeare](https://weber-wong.notion.site/HW6-Markov-Chains-12f01f6c24b5808c805ff83aa84c09bc?pvs=4)
+- Caroline - [Thirukkural & The Hunger Games](https://www.carolinenivetha.com/markov)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

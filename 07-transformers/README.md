@@ -15,7 +15,7 @@
 
 - 📚 [Watch an A.I. Learn to Write by Reading Nothing but **\_\_\_\_**](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html) by Aatish Bhatia
 - 📚 [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Original "Transformer" paper from 2017, also [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) -- Attention paper from 2014
-- 📚 [What Are Transformer Models and How Do They Work?](https://docs.cohere.com/docs/transformer-models)
+- 📚 [What Are Transformer Models and How Do They Work?](https://cohere.com/llmu/what-are-transformer-models)
 - 🎥 [How large language models work, a visual intro to transformers](https://youtu.be/wjZofJX0v4M) by 3Blue1Brown
 - 🎥 [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy and [Intro to LLMs slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
 - 📖 [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish
@@ -87,3 +87,11 @@
 - Joyce [Local Ollama try-out](https://joycezheng.notion.site/Assignment-08-Ollama-local-model-1314ee8df27e80269caed220406b33e6?pvs=4)
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+
+- Joyce [Local Ollama try-out](https://joycezheng.notion.site/Assignment-08-Ollama-local-model-1314ee8df27e80269caed220406b33e6?pvs=4)
+- Michal [lora-trainer](https://michals-blog-site.webflow.io/weeks/a2z-week8)
+- Sean [MoMA Guide LLM Discord Bot](https://bushes-learn-r0w.craft.me/LjHAtf85hDJGhw)
+- Caroline [Rethinking Hate Comments](https://www.carolinenivetha.com/llm)
+- Cara [Koala again](https://pastoral-galliform-f42.notion.site/Week-8-133fc0e698e4807b8665d9b6e2c7e89a?pvs=4)
+- Wallis [LLaVA Vision test](https://wallismb.notion.site/07-Transformers-1360d61d557780b5a7b9c794a62c4651)
+
