@@ -17,7 +17,7 @@
 - Lening -
 - Iris -
 - Lejing -
-- Shun -
+- Shun - [GPT-Fail](https://vagabond-taker-69c.notion.site/A2Z-F24-Final-GPT-Fail-152f5cf5797a803aa766c945e48e4533?pvs=4)
 - Thank you! 💜
 
 
