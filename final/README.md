@@ -13,25 +13,29 @@ Other notes:
 
 ## Final Proposals
 
-- [proposal presentation schedule and guidlines](proposals.md)
+- [proposal presentation schedule and guidelines](proposals.md)
 
 ## Project Development and Testing
 
-The testing will follow a speed "round robin" format. The class will be divided into two groups and we'll do two rounds. For each round half the students will set up on a laptop in the class room and the other half will "view" or "interact with" or "listen to" your project for ~5-7 minutes. We'll rotate so that all "testers" will try each project and provide feedback.
+Testing will follow a "speed round robin" format. The class will be divided into two groups and there will be two rounds. In each round, half the students will set up their projects on laptops in the classroom, while the other half will engage with the projects by viewing, interacting with, or listening to for about 5–7 minutes. Then each tester will rotate to the next project.
 
-This can mean something different for different projects. For an interactive web application, a link to a rough prototype is ideal. For a physical installation or performance or twitter bot, you might need to get creative. If you are not sure how to design your testing, e-mail me and we'll discuss. The "rule" that we will try to adhere to is no explaining of the project until after the user has viewed/interacted.
+What testing means will almost certainly vary depending on the type of project. For an interactive web application, providing a link to a rough prototype is ideal. For a physical installation or performance, you may need to think creatively. One key "rule" you should attempt try to follow is this: no explaining the project until after the person has viewed or interacted with it.
 
-If you are not sure how to design your testing, e-mail me and we'll discuss.
+If you're unsure how to design your testing process, feel free to email me, and I can help!
 
-### Group A Presenters: TBD
+### Wednesday, Nov 27
 
-- TBD
+12:10 👋 Hello
 
-### Group B Presenters: TBD
+### Group A Presenters: 12:15 - 1:15
 
-- TBD
+- Lening, Joyce, LovelyA72, Cara, Michal, Wallis, Iris
 
-### TBD
+### Group B Presenters: 1:30 - 2:30
+
+- Shun, Muqing, Seun, Jackie, Lejing, Caroline
+
+### 2:30
 
 - Course evaluations
 

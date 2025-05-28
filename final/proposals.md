@@ -4,7 +4,7 @@
 
 ### Wednesday, Nov 13
 
-- Lening -
+- Lening - [Idea of form](https://repeated-cake-04e.notion.site/Idea-of-Form-fd7de42822ac4e0eac59ed38fa89434b?pvs=4)
 - Joyce -
 - LovelyA72 -
 - Cara - [FinalIdea](https://www.notion.so/Final-proposal-13bfc0e698e480e89e9dfcc1f1be0a44)
@@ -21,7 +21,7 @@
 - Weber - [microFAUNA](https://weber-wong.notion.site/Final-Project-microFAUNA-14401f6c24b580bab75cfc33bbe208a0?pvs=4)
 - Seun - [Proposal Idea](https://docs.google.com/presentation/d/1LVLoCoD9h8W47YOI1d-uVYpUI8tzWUPvxMKnxr5VMxc/edit#slide=id.g316a600740a_0_28)
 - Jackie -
-- Iris -
+- Iris -[Shape Font](https://www.figma.com/slides/bjswDrN29JTU2tq8vQL78P/20241120-a2z-final?node-id=1-602&t=ebiU4tdt7Z0uXpE3-1)
 
 ## Proposal Feedback TLDR:
 

@@ -3,10 +3,27 @@
 ## Schedule and Documentation Links:
 
 - Welcome! 👋
+- Sean -
+- Joyce - [Meditative Dandelion](https://www.notion.so/joycezheng/Meditative-Dandelion-Project-Documentation-1544ee8df27e80169a78c865f7219336?pvs=4)
+- Zhiyang -
+- Michal, Wallis -
+- Seun - [Sentiment Analyzer](https://fluff-saturnalia-4b2.notion.site/Final-project-1526783215b2807c87d8d84c5f3fd067?pvs=4)
+- Cara - [GPT Assistant](https://www.notion.so/Final-Documentation-13efc0e698e480c8b776ddc59f64e15e)
+- Caroline -
+- BREAK
+- Muqing -
+- LovelyA72 -
+- Jackie -
+- Lening -
+- Iris -
+- Lejing -
+- Shun - [GPT-Fail](https://vagabond-taker-69c.notion.site/A2Z-F24-Final-GPT-Fail-152f5cf5797a803aa766c945e48e4533?pvs=4)
+- Iris - [Shape Font](https://bw0914.notion.site/Programming-A2Z-Final-15b75685ef958071a3a5c2ff51f222af?pvs=4)
+- Thank you! 💜
 
 ## Guidelines
 
-Final project presentations are December 4th, during regular class time. Presentations will be approximately 7 minutes each, I will be strict about the time to keep everything on schedule.
+Final project presentations are December 4th, during regular class time. Presentations will be approximately 8 minutes each, I keep time to keep everything on schedule.
 
 Please post your final project documentation to a web page (blog post is fine) and pull request a link next to your name on the above. This is due Friday, December 13th (spooky!).
 
