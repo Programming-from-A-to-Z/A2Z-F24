@@ -92,4 +92,3 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Caroline [Rethinking Hate Comments](https://www.carolinenivetha.com/llm)
 - Cara [Koala again](https://pastoral-galliform-f42.notion.site/Week-8-133fc0e698e4807b8665d9b6e2c7e89a?pvs=4)
 - Wallis [LLaVA Vision test](https://wallismb.notion.site/07-Transformers-1360d61d557780b5a7b9c794a62c4651)
-
